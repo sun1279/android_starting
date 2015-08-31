@@ -143,9 +143,10 @@ public class MainActivity extends Activity implements SeekBar.OnSeekBarChangeLis
         }
     }
 
-    public void clickHandler(View v) {
-        System.out.println("您点击了Button3");
-    }
+    //this can be called by the xml file android:onClick="clickHandler"
+   // public void clickHandler(View v) {
+   //     System.out.println("您点击了Button3");
+   // }
 
     /*
     public void clickHandler(View v) {
