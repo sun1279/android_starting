@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sunny</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Hisense</string>
+    <string name="interact_message">You just clicked on the Button!</string>
+</resources>
